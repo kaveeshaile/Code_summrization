@@ -39,7 +39,7 @@ def read_code(choice):
         
         response = requests.get(url+ "/archive/master.zip")  
         if response.status_code == 200:
-            print("**Warning:** Code extraction from Git URL not yet implemented.")
+            print("Warning")
             return None  
         else:
             print(f"Error retrieving code: {response.status_code}")
