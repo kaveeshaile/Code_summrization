@@ -3,6 +3,6 @@ This tool will help developers quickly understand new or unfamiliar code by prov
 
 App working steps
 
-1.Use two user type of input to select the code input type but implementedonly File path input...
+1.Use two user type of input to select the code input type but implemented only File path input...
 
 2.Used requirements.txt file for install required libiaries quickly.
